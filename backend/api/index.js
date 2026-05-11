@@ -26,8 +26,8 @@ app.use(cookieParser());
 const corsOptions = {
     origin: [
         "http://localhost:3000",
-        "https://netflix-clone-eta-sepia.vercel.app",
-        "https://your-frontend.vercel.app"
+        "https://netflix-clone-eight-umber-63.vercel.app/"
+
     ],
     credentials: true
 }
